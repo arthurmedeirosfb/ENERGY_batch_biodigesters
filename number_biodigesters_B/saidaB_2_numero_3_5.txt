@@ -1,0 +1,2 @@
+Concert exception caught: CPLEX Error  1217: No solution exists.
+

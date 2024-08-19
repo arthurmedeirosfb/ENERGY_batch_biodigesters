@@ -1,0 +1,17 @@
+2 165 37
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37 21
+3	3	3	4	6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	7	13	3	3	3	3	3	3	2	2	1	1	0	0	0	0	0	0	0	0
+
+
+
+
+
+Numero de biodigestores N // Numero de periodos T (incluindo pré e pós) //numero de periodos auxiliares (com demanda nula)
+Demandas dos T periodos
+Periodos produzindo de cada um N dos biodigestores 
+producoes de cada bio em seus periodos
+
+
+somei 1 período de limpeza a cada uma das duracoes dos ciclos
